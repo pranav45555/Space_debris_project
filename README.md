@@ -57,12 +57,7 @@ Future Coordinates: (4213, −1287, 5320)
 
 ------------------------------------------------------------------------
 
-## 📂 Project Structure
 
-cosmicguard/ │ ├── data/ ├── notebooks/ ├── models/ ├── utils/ ├──
-train_model.py ├── predict.py ├── main.py └── README.md
-
-------------------------------------------------------------------------
 
 ## 📥 Datasets Used
 
@@ -75,18 +70,6 @@ Supported datasets:
 These datasets provide orbital parameters, relative velocity, miss
 distance, time-to-closest approach, and object size.
 
-------------------------------------------------------------------------
-
-## ⚙️ Installation
-
-Clone repository:
-
-git clone https://github.com/yourusername/cosmicguard.git cd cosmicguard
-
-Install dependencies:
-
-pip install pandas numpy scikit-learn matplotlib seaborn sgp4 joblib
-tensorflow
 
 ------------------------------------------------------------------------
 

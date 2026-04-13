@@ -1,4 +1,4 @@
-# 🛰 CosmicGuard: Space Debris Collision Prediction System
+# 🛰 ColideX: Space Debris Collision Prediction System
 
 CosmicGuard is an AI-powered Space Situational Awareness (SSA) system
 designed to predict potential collisions between operational satellites

@@ -1,6 +1,6 @@
 # 🛰 ColideX: Space Debris Collision Prediction System
 
-CosmicGuard is an AI-powered Space Situational Awareness (SSA) system
+ColideX is an AI-powered Space Situational Awareness (SSA) system
 designed to predict potential collisions between operational satellites
 and orbital debris. It combines orbital mechanics (SGP4 propagation)
 with machine learning models to estimate collision probability, classify
